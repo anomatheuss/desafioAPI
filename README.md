@@ -35,6 +35,3 @@ Uma parte crucial do desenvolvimento foi o teste exaustivo dos endpoints utiliza
 1.  **Requisições POST:** Enviei objetos JSON no corpo da requisição para cadastrar novos voluntários e verifiquei o retorno de sucesso (**201 Created**).
 2.  **Requisições GET:** Validei se a lista de profissionais estava sendo atualizada corretamente após cada cadastro.
 3.  **Testes de Validação:** Forcei o envio de dados incorretos (e-mails inválidos, nomes curtos) para garantir que as validações estavam bloqueando dados inconsistentes com as mensagens de erro apropriadas.
-
----
-Desenvolvido por **Matheus** como parte do Desafio de API Back-End. 💻🏆
